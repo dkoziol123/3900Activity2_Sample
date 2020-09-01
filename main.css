@@ -131,8 +131,8 @@ PAGE:
 
 .myimage {
     float:center;
-    width:150px;
-    height:175px;
+    width:300px;
+    height:300px;
     margin:20px;
     border-radius: 20px;
 }
